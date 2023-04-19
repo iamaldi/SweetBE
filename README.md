@@ -1,4 +1,4 @@
-# SweetBE
+# SweetBE - Work in Progress
 
 Let's say you are testing a web application and you're manually sending requests to identify IDOR, XSS or SQLi vulnerabilities (to name a few).
 
